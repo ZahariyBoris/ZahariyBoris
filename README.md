@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZahariyBoris
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:
   Gmail: zahar4ik25@gmail.com
 
